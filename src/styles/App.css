@@ -1,11 +1,6 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 html,
 body {
+  overflow: hidden;
   padding: 0;
   margin: 0;
   width: 100%;
